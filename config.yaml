@@ -14,8 +14,8 @@ redis:
 
 # GitHub 监控关键词
 github_keywords:
-  - 'CVE-2024'
   - 'CVE-2025'
+  - 'CVE-2026'
   - 'exploit'
   - 'vulnerability'
   - '0day'
